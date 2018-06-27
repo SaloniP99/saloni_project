@@ -1,2 +1,3 @@
 # saloni_project
-Example project. Learning various git commands.
+Welcome to the github demonstration.This is an Example project.
+With this project you'll be able to understand and use various git commands.
